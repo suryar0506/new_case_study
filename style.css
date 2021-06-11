@@ -1,0 +1,9 @@
+ol{
+    list-style-type: none;
+}
+
+.img-responsive{
+    height: 300px;
+    width: 300px;
+    box-shadow: 5px 5px 5px black;
+}
